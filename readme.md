@@ -22,3 +22,6 @@ Hello World V1 abcde
 
 - Docker Image url
 https://hub.docker.com/repository/docker/sarals/hello-world-rest-api/tags?page=1
+
+- Kubernates services snapshot 
+https://github.com/SaralSaxena/Kubernates-Docker-GCP/blob/master/KubernatesServices1.JPG
